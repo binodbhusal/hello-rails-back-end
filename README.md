@@ -26,10 +26,12 @@
 # 📖 [hello-rails-back-end] <a name="about-project"></a>
 
 **[hello-rails-back-end]** The objective of this project is to develop a backend API for generating random greeting messages.
-FrontEnd Repo[hello-react-front-end](https://github.com/binodbhusal/hello-react-front-end).
+
+**Frontend Repo Link:**
+[hello-react-front-end](https://github.com/binodbhusal/hello-react-front-end).
 
 <p align="center">
-  <img src="https://github.com/binodbhusal/BlogApp/blob/data-model/images/blog_app_erd.png"/>
+
 </p>
 
 ## 🛠 Built With <a name="built-with"></a>
